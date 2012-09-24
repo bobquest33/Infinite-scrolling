@@ -1,7 +1,6 @@
-Infinite scroll with jQuery + sinatra
-=====================================
+# Infinite scroll with jQuery + sinatra
 
-$ git clone 
+```$ git clone ```
 
 $ shotgun app.rb
 
