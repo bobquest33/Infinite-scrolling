@@ -1,7 +1,15 @@
 # Infinite scroll with jQuery + sinatra
 
-```$ git clone ```
+### Dependencies
 
-$ shotgun app.rb
+* jQuery
+* Gems Sinatra, shotgun
 
-$ open http://localhost:9393
+
+### Install
+
+  # $ git clone https://github.com/ghn/Infinite-scrolling.git
+	# $ shotgun app.rb
+	# $ open http://localhost:9393
+
+----------------------------------------
