@@ -1,0 +1,13 @@
+body > header {
+	margin: 0 auto;
+	width: 700px;
+}
+
+section.post {
+	margin-bottom: 12px;
+	border-bottom: 1px solid #eee;
+	padding: 0 6px;
+}
+	section.post:hover {
+		background-color: #eee;
+	}
