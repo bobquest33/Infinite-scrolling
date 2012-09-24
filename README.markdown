@@ -8,7 +8,7 @@
 
 ### Install
 
-  # $ git clone https://github.com/ghn/Infinite-scrolling.git
+	# $ git clone https://github.com/ghn/Infinite-scrolling.git
 	# $ shotgun app.rb
 	# $ open http://localhost:9393
 
